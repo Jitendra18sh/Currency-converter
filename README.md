@@ -1,3 +1,13 @@
 # Currency-converter
-This repository contains a simple Currency Converter application. It converts values between different currencies using real-time exchange rates. The application is built using Python and Flask, with a user-friendly web interface. To run the app, clone the repo, install the dependencies, and start the server.
-Feel free to modify or expand upon this template based on the specific details and requirements of your project!
+Currency Converter
+A simple currency converter built using HTML, CSS, and JavaScript. It converts currencies based on the latest exchange rates. The project features a user-friendly interface and real-time rate updates.
+
+Features
+Convert between multiple currencies
+Real-time exchange rates
+Easy-to-use interface
+Usage
+Clone the repository and open index.html in your browser.
+
+Contributing
+Feel free to fork and contribute!
